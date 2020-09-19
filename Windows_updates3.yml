@@ -26,6 +26,8 @@
   mail:
    host: smtp.office365.com
    port: 587 
+   SSL Protocol: OFF
+   TLS Protocol: ON
    username: migrationtesting@mouritech.com
    password: 700G12e315m
    to: Ramanjaneyulu BUTHARAJU<ramanjaneyulub.in@mouritech.com>
