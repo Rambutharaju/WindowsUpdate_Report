@@ -20,6 +20,8 @@
     - win_reboot:
       when: result.reboot_required
       
+      # Send Email
+    
   - name: Send a success email
   mail:
    host: smtp.office365.com
