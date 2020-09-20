@@ -1,0 +1,12 @@
+- name: Test reachability to 192.168.10.30 using default vrf
+  ios_ping:
+    dest: 192.168.10.30
+
+- name: Test reachability to 192.168.10.6 using prod vrf
+  ios_ping:
+    dest: 192.168.10.6
+    
+
+- name: Test unreachability to 192.168.10.7 using default vrf
+  ios_ping:
+    dest: 192.168.10.7
