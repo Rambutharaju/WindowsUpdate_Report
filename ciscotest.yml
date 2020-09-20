@@ -1,3 +1,9 @@
+---
+# Ansible playbook to run ios commands
+#
+# http://docs.ansible.com/ansible/win_updates_module.html
+# https://docs.ansible.com/ansible/win_reboot_module.html
+
 - name: Test reachability to 192.168.10.30 using default vrf
   ios_ping:
     dest: 192.168.10.30
