@@ -29,7 +29,6 @@
    SSL Protocol: OFF
    TLS Protocol: ON
    username: migrationtesting@mouritech.com
-   password: 700G12e315m
    to: Ramanjaneyulu BUTHARAJU<ramanjaneyulub.in@mouritech.com>
    subject: Installation Update
    body: 'Attached is the report of the changes that is live'
