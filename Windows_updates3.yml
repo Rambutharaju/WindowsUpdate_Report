@@ -28,7 +28,7 @@
    port: 587 
    SSL Protocol: OFF
    TLS Protocol: ON
-   username: migrationtesting@company.com
+   username: emailtesting@company.com
    to: Ramanjaneyulu BUTHARAJU<ramanjaneyulub.in@company>
    subject: Installation Update
    body: 'Attached is the report of the changes that is live'
